@@ -1,1 +1,1 @@
-console.log("huy 1")
+console.log("crud 1")
